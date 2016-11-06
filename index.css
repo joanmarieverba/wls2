@@ -1,0 +1,58 @@
+body {
+  background-image: url("http://weightlosssuccessbook.com/butterfly-purple.jpg");
+  background-size: 100%;
+  min-height: 100%;
+  width: 100%;
+}
+
+.disclaimer {
+  background-color: antiquewhite;
+  border: 1px solid black;
+  font-family: Verdana;
+  font-size: small;
+  margin-bottom: 50px;
+  margin-left: 120px;
+  margin-top 50px;
+  width: 80%;
+}
+
+h1 {
+  align: center;
+  background-color: skyblue;
+  font-family: 'Roboto';
+}
+
+h5 {
+  color: white;
+  font-family: Oswald;
+}
+
+.linkbox {
+  font-weight: bold;
+  display: block;
+  padding: 10px;
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border: 3px solid purple;
+  border-radius: 15px;
+  font-family: 'Droid Serif', serif;
+  font-size: 14px;
+  background-color: antiquewhite;
+}
+
+.text {
+  color: white;
+}
+
+.top-banner {
+  width: 100%;
+  font-family: 'Oswald';
+  font-size: 36px;
+  top: 0;
+  left: 0;
+  border: 3px solid #73AD21;
+  background-color: blue;
+  text-align: center;
+}
