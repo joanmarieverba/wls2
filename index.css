@@ -7,19 +7,21 @@ body {
 
 .disclaimer {
   background-color: antiquewhite;
-  border: 1px solid black;
+  border: 2px solid black;
+  border-radius: 15px;
   font-family: Verdana;
   font-size: small;
   margin-bottom: 50px;
   margin-left: 120px;
   margin-top 50px;
+  padding: 10px;
   width: 80%;
 }
 
 h1 {
   align: center;
-  background-color: skyblue;
-  font-family: 'Roboto';
+  background-color: antiquewhite;
+  font-family: 'Bitter';
 }
 
 h5 {
@@ -43,16 +45,21 @@ h5 {
 }
 
 .text {
-  color: white;
+  color: antiquewhite;
 }
 
 .top-banner {
-  width: 100%;
-  font-family: 'Oswald';
-  font-size: 36px;
-  top: 0;
-  left: 0;
-  border: 3px solid #73AD21;
+  /*width: 100%;*/
+  /*font-family: 'Oswald';
+  font-size: 36px;*/
+  /*top: 0;
+  left: 0;*/
+  /*border: 3px solid #73AD21;
   background-color: blue;
-  text-align: center;
+  text-align: center;*/
+  display:block;
+  position:relative;
+  overflow:hidden;/*keeps the image in the container*/
+  height: 100px;
 }
+.top-banner img{position:absolute;top:0;width:100%}
