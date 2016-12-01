@@ -5,6 +5,10 @@ body {
   width: 100%;
 }
 
+.container {
+  margin-top: 140px;
+}
+
 .disclaimer {
   background-color: antiquewhite;
   border: 2px solid black;
@@ -24,9 +28,14 @@ h1 {
   font-family: 'Bitter';
 }
 
+h4 {
+  color: antiquewhite;
+  font-family: 'Bitter';
+}
+
 h5 {
-  color: white;
-  font-family: Oswald;
+  color: antiquewhite;
+  font-family: 'Bitter';
 }
 
 .linkbox {
@@ -44,9 +53,17 @@ h5 {
   background-color: antiquewhite;
 }
 
-.text {
-  color: antiquewhite;
+.linkbox img {
+    float: right;
+    margin: 0 0 10px 10px;
 }
+
+}
+
+/*.text {
+  font-weight: bold;
+  color: antiquewhite;
+}*/
 
 .top-banner {
   /*width: 100%;*/
