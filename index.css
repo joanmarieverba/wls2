@@ -1,5 +1,7 @@
 body {
-  background-image: url("http://weightlosssuccessbook.com/butterfly-purple.jpg");
+  /*background-image: url("http://weightlosssuccessbook.com/butterfly-purple.jpg");*/
+  /*background-image: url("http://ftlpublications.biz/wp-content/uploads/2016/12/butterfly-vertictal1..jpg");*/
+background-color: turquoise;
   background-size: 100%;
   min-height: 100%;
   width: 100%;
@@ -34,7 +36,7 @@ h4 {
 }
 
 h5 {
-  color: antiquewhite;
+  color: black;
   font-family: 'Bitter';
 }
 
