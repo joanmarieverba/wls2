@@ -7,11 +7,6 @@ body {
   width: 100%;
 }
 
-.container {
-  /*margin-top: 140px;*/
-  margin-top: .5vw;
-}
-
 .disclaimer {
   background-color: antiquewhite;
   border: 2px solid black;
@@ -72,20 +67,7 @@ h5 {
   z-index: 100;
 }
 
-/*.text {
-  font-weight: bold;
-  color: antiquewhite;
-}*/
-
 .top-banner {
-  /*width: 100%;*/
-  /*font-family: 'Oswald';
-  font-size: 36px;*/
-  /*top: 0;
-  left: 0;*/
-  /*border: 3px solid #73AD21;
-  background-color: blue;
-  text-align: center;*/
   display:block;
   position:relative;
   overflow:hidden;/*keeps the image in the container*/
