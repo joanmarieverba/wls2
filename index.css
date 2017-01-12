@@ -62,6 +62,10 @@ h5 {
     margin: 0 0 10px 10px;
 }
 
+#lspace {
+  float: right;
+}
+
 .socialmedia {
   right: 9vw;
   text-align: right;
