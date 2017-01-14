@@ -71,7 +71,7 @@ h5 {
   display:block;
   position:relative;
   overflow:hidden;/*keeps the image in the container*/
-  height: 150px;
+  height: 10vw;
 }
 .top-banner img{position:absolute;top:0;width:100%}
 
